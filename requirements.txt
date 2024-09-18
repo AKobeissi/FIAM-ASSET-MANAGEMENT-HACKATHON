@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+torch  # or pytorch, depending on your choice
+yfinance
+finta
+matplotlib
+seaborn
+plotly
+cvxpy
+PyPortfolioOpt
+nltk
+spacy
+transformers
+jupyterlab
+openpyxl
